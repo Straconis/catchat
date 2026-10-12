@@ -1,0 +1,2 @@
+Pillow>=11
+cryptography>=46

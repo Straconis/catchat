@@ -1,0 +1,6 @@
+Generated and revised using the built-in image_gen tool.
+
+Initial prompt: Original Cat Chat app logo: a mischievous friendly cat head fused with a speech bubble, subtle hidden-message pixel detail, crisp flat vector-like graphic, charcoal/cyan/cream/coral palette, transparent background, no lettering or watermark.
+
+Revision prompt:
+Edit this Cat Chat logo. Preserve the mischievous winking cat character, charcoal/cyan/cream/coral palette, crisp flat graphic style, and transparent background. Make CHAT immediately obvious: add a distinct, prominent cyan speech bubble with three clearly spaced cream dots, overlapping the lower-right edge of the cat face. The bubble must have a rounded rectangular silhouette and a clear speech tail, and occupy roughly one quarter of the mark. Rebalance the cat slightly left so the bubble is unmistakable and not mistaken for fur or a cheek marking. Keep the cat face readable. Keep existing subtle pixel detail where practical. One cohesive standalone app logo, no wordmark, no text, no watermark, no mockup. True transparent background and generous margins.

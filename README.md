@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/catchat-logo.png" width="220" alt="Cat Chat: a winking cat with a chat bubble"></p>
+![Cat Chat — Secret messages. Actual lolcats. Hide a message. Send a cat.](assets/catchat-banner.png)
 
 # Cat Chat
 
